@@ -1,0 +1,28 @@
+{
+  "name": "photoshareapplication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test1.js",
+  "scripts": {
+    "start": "nodemon photo-share/src/server/index.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LERATO-404/PhotoShareApplication.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LERATO-404/PhotoShareApplication/issues"
+  },
+  "homepage": "https://github.com/LERATO-404/PhotoShareApplication#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
