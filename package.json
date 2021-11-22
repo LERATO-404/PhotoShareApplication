@@ -4,7 +4,7 @@
   "description": "",
   "main": "test1.js",
   "scripts": {
-    "start": "nodemon photo-share/src/server/index.js"
+    "start": "node photo-share/src/server/index.js"
 
   },
   "repository": {
